@@ -1,366 +1,801 @@
-#EXTM3U
-#EXTINF:0,Sky Cinema
-https://skyfall.to/SkyCinema/index.m3u8
-#EXTINF:0,Sky Action
-https://skyfall.to/SkyCinemaAction/index.m3u8
-#EXTINF:0,Sky Emotion
-https://skyfall.to/SkyCinemaEmotion/index.m3u8
-#EXTINF:0,Sky Family
-https://skyfall.to/SkyCinemaFamily/index.m3u8
-#EXTINF:0,Sky Comedy
-https://skyfall.to/SkyCinemaComedy/index.m3u8
-#EXTINF:0,Sky Hits
-https://skyfall.to/SkyCinemaHits/index.m3u8
-#EXTINF:0,Sky Cinema 24
-https://skyfall.to/SkyCinema24/index.m3u8
-#EXTINF:0,Sky Atlantic
-https://skyfall.to/SkyAtlantic/index.m3u8
-#EXTINF:0,Sky Krimi
-https://skyfall.to/SkyKrimi/index.m3u8
-#EXTINF:0,Discovery Channel
-https://skyfall.to/DiscoveryChannel/index.m3u8
-#EXTINF:0,National Geographic
-https://skyfall.to/NationalGeographic/index.m3u8
-#EXTINF:0,Kinowelt TV
-https://skyfall.to/KinoweltTV/index.m3u8
-#EXTINF:0,Fox Serie
-https://skyfall.to/FoxSerie/index.m3u8
-#EXTINF:0,NatGeo Wild
-https://skyfall.to/NatGeoWild/index.m3u8
-#EXTINF:0,TNT Serie
-https://skyfall.to/TNTSerie/index.m3u8
-#EXTINF:0,Syfy
-https://skyfall.to/Syfy/index.m3u8
-#EXTINF:0,13th Street
-https://skyfall.to/13thStreet/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 1
-https://skyfall.to/SkySportBundesliga1/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 2
-https://skyfall.to/SkySportBundesliga2/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 3
-https://skyfall.to/SkySportBundesliga3/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 4
-https://skyfall.to/SkySportBundesliga4/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 5
-https://skyfall.to/SkySportBundesliga5/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 6
-https://skyfall.to/SkySportBundesliga6/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 7
-https://skyfall.to/SkySportBundesliga7/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 8
-https://skyfall.to/SkySportBundesliga8/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 9
-https://skyfall.to/SkySportBundesliga9/index.m3u8
-#EXTINF:0,Sky Sport 1
-https://skyfall.to/SkySport1/index.m3u8
-#EXTINF:0,Sky Sport 2
-https://skyfall.to/SkySport2/index.m3u8
-#EXTINF:0,Sky Sport News
-#EXTINF:-1,------ SKY German -------
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/830.ts
-#EXTINF:-1,DE: Sky Sport News
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/759.ts
-#EXTINF:-1,DE: Sky Sport +1
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/761.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/829.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/826.ts
-#EXTINF:-1,DE: Sky Sport 1
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/827.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/828.ts
-#EXTINF:-1,DE: Sky Eurosport
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/809.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/810.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/807.ts
-#EXTINF:-1,DE: Sky Select 1
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/825.ts
-#EXTINF:-1,DE: Sky Select 2
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/824.ts
-#EXTINF:-1,DE: Sky Select 3
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/823.ts
-#EXTINF:-1,DE: Sky Select 4
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/822.ts
-#EXTINF:-1,DE: Sky Select 5
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/821.ts
-#EXTINF:-1,DE: Sky Select 6
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/820.ts
-#EXTINF:-1,DE: Sky Select 7
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/819.ts
-#EXTINF:-1,DE: Sky Select 8
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/818.ts
-#EXTINF:-1,DE: Sky Action
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/804.ts
-#EXTINF:-1,DE: Sky Cinema
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/808.ts
-#EXTINF:-1,DE: Sky Cinema +1
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/806.ts
-#EXTINF:-1,DE: Sky Cinema +24
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/805.ts
-#EXTINF:-1,DE: Sky Emotion
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/801.ts
-#EXTINF:-1,DE: Sky Comedy
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/799.ts
-#EXTINF:-1,DE: Sky HITS
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/802.ts
-#EXTINF:-1,DE: Sky Comedy Central
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/786.ts
-#EXTINF:-1,DE: Sky Teleclub Sport 1
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/751.ts
-#EXTINF:-1,DE: Sky Teleclub Sport 2
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/750.ts
-#EXTINF:-1,DE: Sky Teleclub Sport 3
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/749.ts
-#EXTINF:-1,DE: Sky Teleclub Crime
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/748.ts
-#EXTINF:-1,DE: Sky Teleclub Cinema
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/747.ts
-#EXTINF:-1,DE: Sky Teleclub Star
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/746.ts
-#EXTINF:-1,DE: Sky RTL
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/779.ts
-#EXTINF:-1,DE: Sky RTL 2
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/778.ts
-#EXTINF:-1,DE: Sky RTL Crime
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/752.ts
-#EXTINF:-1,DE: Sky RTL Passion
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/774.ts
-#EXTINF:-1,DE: Sky RTL Super
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/800.ts
-#EXTINF:-1,DE: Sky Kino Welt tv
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/776.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/784.ts
-#EXTINF:-1,DE: Sky Sat1 Gold
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/777.ts
-#EXTINF:-1,DE: Sky Austria 24 TV
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/796.ts
-#EXTINF:-1,DE: Sky ZEE Deutschland
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/791.ts
-#EXTINF:-1,DE: Sky ZDF Info
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/790.ts
-#EXTINF:-1,DE: Sky SRF 1
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/783.ts
-#EXTINF:-1,DE: Sky SRF 2
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/782.ts
-#EXTINF:-1,DE: Sky ORF 2
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/772.ts
-#EXTINF:-1,DE: Sky ORF Enis
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/771.ts
-#EXTINF:-1,DE: Sky VOX
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/788.ts
-#EXTINF:-1,DE: Sky FOX
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/787.ts
-#EXTINF:-1,DE: Sky HR HD
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/754.ts
-#EXTINF:-1,DE: Sky Heimat
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/812.ts
-#EXTINF:-1,DE: Sky Gold Star
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/813.ts
-#EXTINF:-1,DE: Sky SYFY
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/753.ts
-#EXTINF:-1,DE: Sky TNT Comedy HD
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/811.ts
-#EXTINF:-1,DE: Sky TNT Serie
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/794.ts
-#EXTINF:-1,DE: Sky TNT Film
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/758.ts
-#EXTINF:-1,DE: Sky Disney Channel
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/795.ts
-#EXTINF:-1,DE: Sky Network
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/814.ts
-#EXTINF:-1,DE: Sky Nickelodeon
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/797.ts
-#EXTINF:-1,DE: Sky National Geographic
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/792.ts
-#EXTINF:-1,DE: Sky Nat Geo wild
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/793.ts
-#EXTINF:-1,DE: Sky History
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/762.ts
-#EXTINF:-1,DE: Sky AXN HD
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/760.ts
-#EXTINF:-1,DE: Sky 13th Street
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/780.ts
-#EXTINF:-1,DE: Sky RBB Berlin
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/775.ts
-#EXTINF:-1,DE: Sky Phoenix
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/769.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/798.ts
-#EXTINF:-1,DE: Sky Wdr
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/789.ts
-#EXTINF:-1,DE: Sky Sixx
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/785.ts
-#EXTINF:-1,DE: Sky Pro 7
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/773.ts
-#EXTINF:-1,DE: Sky NDR HD
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/768.ts
-#EXTINF:-1,DE: Sky N24
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/767.ts
-#EXTINF:-1,DE: Sky N-TV
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/766.ts
-#EXTINF:-1,DE: Sky Classica
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/765.ts
-#EXTINF:-1,DE: Sky Krimi HD
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/803.ts
-#EXTINF:-1,DE: Sky Kika
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/764.ts
-#EXTINF:-1,DE: Sky Kabel 1
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/763.ts
-#EXTINF:-1,DE: Sky Dmax
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/770.ts
-#EXTINF:-1,DE: Sky Pro 7 Max
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/757.ts
-#EXTINF:-1,DE: Sky Arte
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/756.ts
-#EXTINF:-1,DE: Sky ARD
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/755.ts
-#EXTINF:-1,DE: Sky 3sat
-http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/781.ts
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/292.ts
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/291.ts
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/290.ts
-#EXTINF:-1,DE: SKY SELECT 4 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/289.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/288.ts
-#EXTINF:-1,DE: SKY SELECT 6 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/287.ts
-#EXTINF:-1,DE :SKY Select 7 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/286.ts
-#EXTINF:-1,DE: SKY SELECT 8 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/256.ts
-#EXTINF:-1,DE: SKY SELECT 9 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/247.ts
-#EXTINF:-1,DE:Sky Sport 1 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/281.ts
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/284.ts
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/280.ts
-#EXTINF:-1,DE: Sky Sport 1 US HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/282.ts
-#EXTINF:-1,DE: SKY SPORT AUSTRIA
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/283.ts
-#EXTINF:-1,DE: TNT_SERIE
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/372.ts
-#EXTINF:-1,DE: TNT_FILM
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/371.ts
-#EXTINF:-1,DE: Super RTL HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/366.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/375.ts
-#EXTINF:-1,DE: Sky Cinema  1 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/379.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/373.ts
-#EXTINF:-1,DE: Sky Action HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/378.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/382.ts
-#EXTINF:-1,DE: Sat 1 Gold HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/381.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/380.ts
-#EXTINF:-1,DE:EURONEWS
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/367.ts
-#EXTINF:-1,DE: NatGeo Wild HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/377.ts
-#EXTINF:-1,DE: Kika HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/365.ts
-#EXTINF:-1,DE: History Channel HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/376.ts
-#EXTINF:-1,DE: Heimatkanal
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/374.ts
-#EXTINF:-1,DE: Disney XD Deutschland
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/368.ts
-#EXTINF:-1,DE: Disney Junior HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/369.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/370.ts
-#EXTINF:-1,DE: Cartoon Network
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/364.ts
-#EXTINF:-1,DE: Boomerang
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/363.ts
-#EXTINF:-1,DE:ZDF-HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/253.ts
-#EXTINF:-1,DE:RTL_Nitro
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/252.ts
-#EXTINF:-1,DE:RTL_Living
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/251.ts
-#EXTINF:-1,DE: Sky Krimi
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/246.ts
-#EXTINF:-1,DE:RTLI
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/250.ts
-#EXTINF:-1,DE:Sky_Movies_Family_Hd
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/259.ts
-#EXTINF:-1,DE:Sky_Cinema_Hd
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/258.ts
-#EXTINF:-1,DE:Sky_Atlantic_HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/257.ts
-#EXTINF:-1,DE:Sky-Nostalgie
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/255.ts
-#EXTINF:-1,DE:Sky-Discovery-Channel-HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/254.ts
-#EXTINF:-1,DE:Sky Hits HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/276.ts
-#EXTINF:-1,DE:SKY Emotion HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/275.ts
-#EXTINF:-1,DE:SKY Cinema  24 HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/273.ts
-#EXTINF:-1,DE:Sky Cinema
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/274.ts
-#EXTINF:-1,DE:Kabel1
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/249.ts
-#EXTINF:-1,DE:Joiz
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/243.ts
-#EXTINF:-1,DE: Disney Channel HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/248.ts
-#EXTINF:-1,DE:tv_Aktuell
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/244.ts
-#EXTINF:-1,DE:TNT Serie HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/277.ts
-#EXTINF:-1,DE:AE
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/245.ts
-#EXTINF:-1,DE: ZDF NEO HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/263.ts
-#EXTINF:-1,DE: VOX
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/264.ts
-#EXTINF:-1,DE: SYFY
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/265.ts
-#EXTINF:-1,DE: Super RTL
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/266.ts
-#EXTINF:-1,DE: SRF2
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/267.ts
-#EXTINF:-1,DE: SRF1
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/268.ts
-#EXTINF:-1,DE: Sport DigiTal HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/285.ts
-#EXTINF:-1,DE: Sky MGM HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/271.ts
-#EXTINF:-1,DE: Sky Fox HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/279.ts
-#EXTINF:-1,DE: Sky Comedy
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/269.ts
-#EXTINF:-1,DE: Sky AXN HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/270.ts
-#EXTINF:-1,DE: Sky 13 Street HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/278.ts
-#EXTINF:-1,DE: PRO7 MAX
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/260.ts
-#EXTINF:-1,DE: National Geographic HD
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/261.ts
-#EXTINF:-1,DE: Disney Channel
-http://iptv.sat-tv.net:8000/live/Aliali/Aliali/262.ts
+ #EXTINF:-1,***** GERMANY *****
+http://51.254.196.199:8080/live/testfast/hTwqA9/1147.ts
+#EXTINF:-1,DE | a.tv uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1430.ts
+#EXTINF:-1,DE | KiKA uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1429.ts
+#EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1506.ts
+#EXTINF:-1,DE | Pro7
+http://51.254.196.199:8080/live/testfast/hTwqA9/1507.ts
+#EXTINF:-1,DE | RTL_LIVING
+http://51.254.196.199:8080/live/testfast/hTwqA9/1508.ts
+#EXTINF:-1,DE | RTL Television uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1420.ts
+#EXTINF:-1,DE | RTLII HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1427.ts
+#EXTINF:-1,DE | RTL Crime / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1509.ts
+#EXTINF:-1,DE | RTL HD / CBC uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1513.ts
+#EXTINF:-1,DE | RTL2/CBC uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1512.ts
+#EXTINF:-1,DE | RTL NITRO/CBC uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1511.ts
+#EXTINF:-1,DE | RTLplus uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4667.ts
+#EXTINF:-1,DE | RTL Passion / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2626.ts
+#EXTINF:-1,DE | SUPER RTL uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1419.ts
+#EXTINF:-1,DE | Sky Krimi / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1400.ts
+#EXTINF:-1,DE | Sky Cinema Hits uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1401.ts
+#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1406.ts
+#EXTINF:-1,DE | Sky Cinema Comedy uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1407.ts
+#EXTINF:-1,DE | Sky Cinema uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1408.ts
+#EXTINF:-1,DE | SkyAction
+http://51.254.196.199:8080/live/testfast/hTwqA9/1404.ts
+#EXTINF:-1,DE | Sky Atlantic uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1403.ts
+#EXTINF:-1,DE | SkyCinema24
+http://51.254.196.199:8080/live/testfast/hTwqA9/1405.ts
+#EXTINF:-1,DE | SkyCinema
+http://51.254.196.199:8080/live/testfast/hTwqA9/1425.ts
+#EXTINF:-1,DE | Sky Cinema +1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1410.ts
+#EXTINF:-1,DE | Sky Cinema Emotion uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2630.ts
+#EXTINF:-1,DE | Sky Cinema Action uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2628.ts
+#EXTINF:-1,DE | SKY MGM HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1399.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/2625.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/2624.ts
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/2633.ts
+#EXTINF:-1,DE | SAT.1 RhlPf uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1426.ts
+#EXTINF:-1,DE | SAT.1 A  uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4666.ts
+#EXTINF:-1,DE | SAT.1 CH uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4665.ts
+#EXTINF:-1,DE | SAT.1 Gold uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4664.ts
+#EXTINF:-1,DE | SAT.1 NRW / ProSiebenSat.1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1418.ts
+#EXTINF:-1,DE | SKY SPORT1 HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1417.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1415.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1431.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu..
+http://51.254.196.199:8080/live/testfast/hTwqA9/1416.ts
+#EXTINF:-1,DE | EURO SPORT
+http://51.254.196.199:8080/live/testfast/hTwqA9/1412.ts
+#EXTINF:-1,DE | EUROSPORT2
+http://51.254.196.199:8080/live/testfast/hTwqA9/1413.ts
+#EXTINF:-1,DE | N.24 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1411.ts
+#EXTINF:-1,DE | 13Street
+http://51.254.196.199:8080/live/testfast/hTwqA9/1402.ts
+#EXTINF:-1,DE | ORF1
+http://51.254.196.199:8080/live/testfast/hTwqA9/1421.ts
+#EXTINF:-1,DE | VOX HD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1423.ts
+#EXTINF:-1,DE | ZDF  uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1422.ts
+#EXTINF:-1,DE | ZDFinfo/ZDFvision uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1473.ts
+#EXTINF:-1,DE | ProSieben / ProSiebenSat.1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1409.ts
+#EXTINF:-1,DE | NDR HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1477.ts
+#EXTINF:-1,DE | Fox hd
+http://51.254.196.199:8080/live/testfast/hTwqA9/1522.ts
+#EXTINF:-1,DE | Fox Serie uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4670.ts
+#EXTINF:-1,DE | AXN.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1523.ts
+#EXTINF:-1,DE | Sat1 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1510.ts
+#EXTINF:-1,DE | Srf1
+http://51.254.196.199:8080/live/testfast/hTwqA9/1472.ts
+#EXTINF:-1,DE | N TV.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1474.ts
+#EXTINF:-1,DE | ROMANCE
+http://51.254.196.199:8080/live/testfast/hTwqA9/1475.ts
+#EXTINF:-1,DE | zdf neo/ZDFvision uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1476.ts
+#EXTINF:-1,DE | Eurosport HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1478.ts
+#EXTINF:-1,DE | WDRHD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1480.ts
+#EXTINF:-1,DE | VOX/CBC uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1514.ts
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1481.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1482.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://51.254.196.199:8080/live/testfast/hTwqA9/1483.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD uuu.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1484.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1485.ts
+#EXTINF:-1,DE | SPORT +1 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1486.ts
+#EXTINF:-1,DE | SPORT 1  HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1487.ts
+#EXTINF:-1,DE | SKY SELECT 1
+http://51.254.196.199:8080/live/testfast/hTwqA9/1495.ts
+#EXTINF:-1,DE | SKY SELECT 2HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1494.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1493.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1492.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1491.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1490.ts
+#EXTINF:-1,DE | Sky Select 7HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1489.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1488.ts
+#EXTINF:-1,DE | ZDF /ZDFvision uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1515.ts
+#EXTINF:-1,DE | ORF2
+http://51.254.196.199:8080/live/testfast/hTwqA9/1517.ts
+#EXTINF:-1,DE | D MAX HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1518.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1497.ts
+#EXTINF:-1,DE | Sky Cinema Family / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1498.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1520.ts
+#EXTINF:-1,DE | N24    uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1499.ts
+#EXTINF:-1,DE | arte / ARD  uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1500.ts
+#EXTINF:-1,DE | arte / ARD uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1516.ts
+#EXTINF:-1,DE | Disney Junior / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1501.ts
+#EXTINF:-1,DE | Disney_XD
+http://51.254.196.199:8080/live/testfast/hTwqA9/1502.ts
+#EXTINF:-1,DE | NICK_JR
+http://51.254.196.199:8080/live/testfast/hTwqA9/1504.ts
+#EXTINF:-1,DE | SYFY
+http://51.254.196.199:8080/live/testfast/hTwqA9/1521.ts
+#EXTINF:-1,DE | WDR uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/1505.ts
+#EXTINF:-1,DE | SIXX.
+http://51.254.196.199:8080/live/testfast/hTwqA9/1519.ts
+#EXTINF:-1,DE | kabel eins / ProSiebenSat.1 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2627.ts
+#EXTINF:-1,DE | HEIMAT KANAL
+http://51.254.196.199:8080/live/testfast/hTwqA9/2631.ts
+#EXTINF:-1,DE | Disney Cinemagic / SKY uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/2632.ts
+#EXTINF:-1,DE | kabel eins Doku uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4669.ts
+#EXTINF:-1,DE | N24 uuu
+http://51.254.196.199:8080/live/testfast/hTwqA9/4668.ts
+#EXTINF:-1,DE VOD | Freistatt  2015
+
+Video Player
+Error loading this resource
+
+00:00
+00:00
 
 
+#EXTINF:-1,DE VOD | Gallows Jede Schule hat ein Geheimnis 2015
+Video Player
+Error loading this resource
 
-https://skyfall.to/SkySportNewsHD/index.m3u8
-#EXTINF:0,Sky Sport Austria
-https://skyfall.to/SkySportAustria/index.m3u8
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Hedi Schneider steckt fest  2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Heil 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Hitman Agent 47 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Ich und Earl und das Maedchen
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Im Winter So Schoen 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | James Bond 007 Spectre
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Knight of Cups  2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Knock Knock
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Legend 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Legend of the Krays Teil 1 Der Aufstieg 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Legend V2 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Max Bester Freund Held Retter
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Molly Moon German 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Mordkommission Berlin 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Night of the Wild 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Paranormal Activity Ghost Dimension
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Picknick mit Baeren
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Pudsey Ein tierisch cooler Held 2014
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Ricki Wie Familie so ist  2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Rico Oskar und das Herzgebreche  2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Selfless Der Fremde in mir German 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Sicario  2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Sinister 2  2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Skin Traffik 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Southpaw  2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Star Wars Episode VII Das Erwachen der Macht TS MD 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Straight Outta Compton DIRECTORS CUT 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | Ted 2 EXTENDED 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | The Big Short 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | The D Train 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | The Gunfighters Blunt Force Trauma 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | The Nesting Haus Des Grauens 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | The Operator Eine Marble Hornets Story 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | The Ridiculous 6 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | The Transporter Refueled 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | The Vatican Tapes German 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | The Visit 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | The Walk Eine wahre Geschichte 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | True Story Spiel um Macht  2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Umrika German 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD | Unhallowed Ground
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | We Are Still Here Haus des Grauens
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD | We are your Friends
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Afflicted
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Aloha Die Chance auf Glueck 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Ashby 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Bridge of Spies
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Codename U N C L E 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Crimson Peak 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Dark Places Gefaehrliche Erinnerung
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Dating Queen EXTENDED  2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Der Auftrag  Fuer einen letzten Coup ist es nie zu spaet
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Der Fluch von Downers Grove 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Der Marsianer Rettet Mark Watney 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Die Entführung von Bus 657 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Dragon Blade 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD| Everest  2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Fantastic Four 2015
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD| Frei wie der Wind German 2015
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD ANIMATION | Das Geheimnis von Oceana Teil 1
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD ANIMATION | Das Geheimnis von Oceana Teil 2
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD ANIMATION | Das Tagebuch
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD ANIMATION | Der geheimnisvolle Pegasus
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD ANIMATION | Der Nussknacker
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD ANIMATION | Die 12 tanzenden Prinzessinnen
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD ANIMATION | Die geheime Welt der Glitzerfeen
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD ANIMATION | Die Magischen Perlen
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD ANIMATION | Die Musketiere
+Video Player
+Error loading this resource
+
+#EXTINF:-1,DE VOD ANIMATION | Die Prinzessin der Tierinsel
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD ANIMATION | Die Prinzessin und das Dorfmädchen
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD ANIMATION | Die Prinzessin und der Popstar
+Video Player
+Error loading this resource
+
+00:00
+00:00
+
+
+#EXTINF:-1,DE VOD ANIMATION | Die Prinzessinnen Akademie
+Video Player
+Error loading this resource
+
+#EXTINF:-1,--------------- German ---------------
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1252.ts
+#EXTINF:-1,GER - ZDF
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1359.ts
+#EXTINF:-1,GER - ORF 1 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1242.ts
+#EXTINF:-1,GER - ORF 2 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1241.ts
+#EXTINF:-1,GER - Sky Cinema HD DE
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1236.ts
+#EXTINF:-1,GER - Sky Cinema Emotion HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1235.ts
+#EXTINF:-1,GER - Sky Cinema  1
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3014.ts
+#EXTINF:-1,GER - Cinema 24 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3023.ts
+#EXTINF:-1,GER - Sky Comedy
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1237.ts
+#EXTINF:-1,GER - Sky Action HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3016.ts
+#EXTINF:-1,GER - Sky Atlantic
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3015.ts
+#EXTINF:-1,GER - RTL Nitro
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3017.ts
+#EXTINF:-1,GER - RTL Living
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3018.ts
+#EXTINF:-1,GER - AXN Action
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3020.ts
+#EXTINF:-1,GER - Disney Channel
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3019.ts
+#EXTINF:-1,GER - National Geographic
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1365.ts
+#EXTINF:-1,GER - History Channel HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1366.ts
+#EXTINF:-1,GER - Discovery Channel HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1367.ts
+#EXTINF:-1,GER - Sky Select 1 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1243.ts
+#EXTINF:-1,GER - Sky Select 2 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1244.ts
+#EXTINF:-1,GER - Sky Select 3 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1245.ts
+#EXTINF:-1,GER - Sky Select 4 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1246.ts
+#EXTINF:-1,GER - Sky Select 5 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1247.ts
+#EXTINF:-1,GER - Sky Select 6 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1248.ts
+#EXTINF:-1,GER - Sky Select 7 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1249.ts
+#EXTINF:-1,GER - Sky Select 8 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1250.ts
+#EXTINF:-1,GER - Sky Select 9 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1251.ts
+#EXTINF:-1,GER - Sky Sports News HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3022.ts
+#EXTINF:-1,GER - Sky Sports 1 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/131.ts
+#EXTINF:-1,GER - Sky Sports 2 HD
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/244.ts
+#EXTINF:-1,GER - Bundesliga 1
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/245.ts
+#EXTINF:-1,GER - Bundesliga 2
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3013.ts
+#EXTINF:-1,GER - Bundesliga 3
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3012.ts
+#EXTINF:-1,GER - Bundesliga 4
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3011.ts
+#EXTINF:-1,GER - Bundesliga 5
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3010.ts
+#EXTINF:-1,GER - Bundesliga 6
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3009.ts
+#EXTINF:-1,GER - Bundesliga 7
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3008.ts
+#EXTINF:-1,GER - Bundesliga 8
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3007.ts
+#EXTINF:-1,GER - Bundesliga 9
+http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/3006.ts
+#EXTINF:-1,***********GERMANY**********************
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/174.ts
+#EXTINF:-1,SKYSPORTS DE 1HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/172.ts
+#EXTINF:-1,SKYSPORTS DE 2HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/173.ts
+#EXTINF:-1,SKY BUNDESLIGA 1 HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/175.ts
+#EXTINF:-1,SKY BUNDESLIGA 2 HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/365.ts
+#EXTINF:-1,SKY BUNDESLIGA 3 HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/366.ts
+#EXTINF:-1,SKY CINEMA +24 DE HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/178.ts
+#EXTINF:-1,SKY ATLANTIC HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/362.ts
+#EXTINF:-1,SKY EMOTION HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/180.ts
+#EXTINF:-1,SKY COMEDY DE HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/179.ts
+#EXTINF:-1,SKY CINEMA 1 DE HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/176.ts
+#EXTINF:-1,SKY CINEMA  DE HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/177.ts
+#EXTINF:-1,SKY ACTION DE HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/181.ts
+#EXTINF:-1,SKY 13 STREET HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/360.ts
+#EXTINF:-1,SKY HITS
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/363.ts
+#EXTINF:-1,SKY KRIMI
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/356.ts
+#EXTINF:-1,SKY SELECT 1 HD DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/200.ts
+#EXTINF:-1,SKY SELECT 2 HD DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/201.ts
+#EXTINF:-1,SKY SELECT 3 HD DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/202.ts
+#EXTINF:-1,SKY SELECT 4 HD DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/203.ts
+#EXTINF:-1,SKY SELECT 5 HD DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/204.ts
+#EXTINF:-1,SKY SELECT 6 HD DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/205.ts
+#EXTINF:-1,SKY SELECT 7 HD DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/206.ts
+#EXTINF:-1,SKY SELECT 8 HD DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/207.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/184.ts
+#EXTINF:-1,DISCOVERY CHANNEL DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/182.ts
+#EXTINF:-1,HISTORY CHANNEL DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/183.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/361.ts
+#EXTINF:-1,TNT SERIE HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/342.ts
+#EXTINF:-1,TNT FILM HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/343.ts
+#EXTINF:-1,PRO7 MAXX
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/340.ts
+#EXTINF:-1,WDR
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/358.ts
+#EXTINF:-1,ARD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/359.ts
+#EXTINF:-1,PHOENIX
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/347.ts
+#EXTINF:-1,AXN DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/345.ts
+#EXTINF:-1,PRO7
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/189.ts
+#EXTINF:-1,N24 HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/336.ts
+#EXTINF:-1,NTV
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/357.ts
+#EXTINF:-1,MGM HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/338.ts
+#EXTINF:-1,ANIXE HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/337.ts
+#EXTINF:-1,ZDF INFO
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/194.ts
+#EXTINF:-1,KABEL 1
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/186.ts
+#EXTINF:-1,SAT 1 DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/187.ts
+#EXTINF:-1,3SAT DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/188.ts
+#EXTINF:-1,VOX
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/197.ts
+#EXTINF:-1,FOX DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/195.ts
+#EXTINF:-1,RTL HD
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/190.ts
+#EXTINF:-1,RTL DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/191.ts
+#EXTINF:-1,RTL 2 DE
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/192.ts
+#EXTINF:-1,SUPER RTL
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/339.ts
+#EXTINF:-1,RTL CRIME
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/344.ts
+#EXTINF:-1,RTL NITRO
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/193.ts
+#EXTINF:-1,RTL PASSION
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/346.ts
+#EXTINF:-1,ORF 1
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/198.ts
+#EXTINF:-1,ORF 2
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/199.ts
+#EXTINF:-1,KIKA
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/196.ts
+#EXTINF:-1,SRF 1
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/497.ts
+#EXTINF:-1,SRF 2
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/498.ts
+#EXTINF:-1,DMAX
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/185.ts
