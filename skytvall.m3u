@@ -1,0 +1,366 @@
+#EXTM3U
+#EXTINF:0,Sky Cinema
+https://skyfall.to/SkyCinema/index.m3u8
+#EXTINF:0,Sky Action
+https://skyfall.to/SkyCinemaAction/index.m3u8
+#EXTINF:0,Sky Emotion
+https://skyfall.to/SkyCinemaEmotion/index.m3u8
+#EXTINF:0,Sky Family
+https://skyfall.to/SkyCinemaFamily/index.m3u8
+#EXTINF:0,Sky Comedy
+https://skyfall.to/SkyCinemaComedy/index.m3u8
+#EXTINF:0,Sky Hits
+https://skyfall.to/SkyCinemaHits/index.m3u8
+#EXTINF:0,Sky Cinema 24
+https://skyfall.to/SkyCinema24/index.m3u8
+#EXTINF:0,Sky Atlantic
+https://skyfall.to/SkyAtlantic/index.m3u8
+#EXTINF:0,Sky Krimi
+https://skyfall.to/SkyKrimi/index.m3u8
+#EXTINF:0,Discovery Channel
+https://skyfall.to/DiscoveryChannel/index.m3u8
+#EXTINF:0,National Geographic
+https://skyfall.to/NationalGeographic/index.m3u8
+#EXTINF:0,Kinowelt TV
+https://skyfall.to/KinoweltTV/index.m3u8
+#EXTINF:0,Fox Serie
+https://skyfall.to/FoxSerie/index.m3u8
+#EXTINF:0,NatGeo Wild
+https://skyfall.to/NatGeoWild/index.m3u8
+#EXTINF:0,TNT Serie
+https://skyfall.to/TNTSerie/index.m3u8
+#EXTINF:0,Syfy
+https://skyfall.to/Syfy/index.m3u8
+#EXTINF:0,13th Street
+https://skyfall.to/13thStreet/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 1
+https://skyfall.to/SkySportBundesliga1/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 2
+https://skyfall.to/SkySportBundesliga2/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 3
+https://skyfall.to/SkySportBundesliga3/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 4
+https://skyfall.to/SkySportBundesliga4/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 5
+https://skyfall.to/SkySportBundesliga5/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 6
+https://skyfall.to/SkySportBundesliga6/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 7
+https://skyfall.to/SkySportBundesliga7/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 8
+https://skyfall.to/SkySportBundesliga8/index.m3u8
+#EXTINF:0,Sky Sport Bundesliga 9
+https://skyfall.to/SkySportBundesliga9/index.m3u8
+#EXTINF:0,Sky Sport 1
+https://skyfall.to/SkySport1/index.m3u8
+#EXTINF:0,Sky Sport 2
+https://skyfall.to/SkySport2/index.m3u8
+#EXTINF:0,Sky Sport News
+#EXTINF:-1,------ SKY German -------
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/830.ts
+#EXTINF:-1,DE: Sky Sport News
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/759.ts
+#EXTINF:-1,DE: Sky Sport +1
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/761.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/829.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/826.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/827.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/828.ts
+#EXTINF:-1,DE: Sky Eurosport
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/809.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/810.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/807.ts
+#EXTINF:-1,DE: Sky Select 1
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/825.ts
+#EXTINF:-1,DE: Sky Select 2
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/824.ts
+#EXTINF:-1,DE: Sky Select 3
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/823.ts
+#EXTINF:-1,DE: Sky Select 4
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/822.ts
+#EXTINF:-1,DE: Sky Select 5
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/821.ts
+#EXTINF:-1,DE: Sky Select 6
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/820.ts
+#EXTINF:-1,DE: Sky Select 7
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/819.ts
+#EXTINF:-1,DE: Sky Select 8
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/818.ts
+#EXTINF:-1,DE: Sky Action
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/804.ts
+#EXTINF:-1,DE: Sky Cinema
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/808.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/806.ts
+#EXTINF:-1,DE: Sky Cinema +24
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/805.ts
+#EXTINF:-1,DE: Sky Emotion
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/801.ts
+#EXTINF:-1,DE: Sky Comedy
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/799.ts
+#EXTINF:-1,DE: Sky HITS
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/802.ts
+#EXTINF:-1,DE: Sky Comedy Central
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/786.ts
+#EXTINF:-1,DE: Sky Teleclub Sport 1
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/751.ts
+#EXTINF:-1,DE: Sky Teleclub Sport 2
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/750.ts
+#EXTINF:-1,DE: Sky Teleclub Sport 3
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/749.ts
+#EXTINF:-1,DE: Sky Teleclub Crime
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/748.ts
+#EXTINF:-1,DE: Sky Teleclub Cinema
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/747.ts
+#EXTINF:-1,DE: Sky Teleclub Star
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/746.ts
+#EXTINF:-1,DE: Sky RTL
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/779.ts
+#EXTINF:-1,DE: Sky RTL 2
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/778.ts
+#EXTINF:-1,DE: Sky RTL Crime
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/752.ts
+#EXTINF:-1,DE: Sky RTL Passion
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/774.ts
+#EXTINF:-1,DE: Sky RTL Super
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/800.ts
+#EXTINF:-1,DE: Sky Kino Welt tv
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/776.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/784.ts
+#EXTINF:-1,DE: Sky Sat1 Gold
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/777.ts
+#EXTINF:-1,DE: Sky Austria 24 TV
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/796.ts
+#EXTINF:-1,DE: Sky ZEE Deutschland
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/791.ts
+#EXTINF:-1,DE: Sky ZDF Info
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/790.ts
+#EXTINF:-1,DE: Sky SRF 1
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/783.ts
+#EXTINF:-1,DE: Sky SRF 2
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/782.ts
+#EXTINF:-1,DE: Sky ORF 2
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/772.ts
+#EXTINF:-1,DE: Sky ORF Enis
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/771.ts
+#EXTINF:-1,DE: Sky VOX
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/788.ts
+#EXTINF:-1,DE: Sky FOX
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/787.ts
+#EXTINF:-1,DE: Sky HR HD
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/754.ts
+#EXTINF:-1,DE: Sky Heimat
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/812.ts
+#EXTINF:-1,DE: Sky Gold Star
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/813.ts
+#EXTINF:-1,DE: Sky SYFY
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/753.ts
+#EXTINF:-1,DE: Sky TNT Comedy HD
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/811.ts
+#EXTINF:-1,DE: Sky TNT Serie
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/794.ts
+#EXTINF:-1,DE: Sky TNT Film
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/758.ts
+#EXTINF:-1,DE: Sky Disney Channel
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/795.ts
+#EXTINF:-1,DE: Sky Network
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/814.ts
+#EXTINF:-1,DE: Sky Nickelodeon
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/797.ts
+#EXTINF:-1,DE: Sky National Geographic
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/792.ts
+#EXTINF:-1,DE: Sky Nat Geo wild
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/793.ts
+#EXTINF:-1,DE: Sky History
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/762.ts
+#EXTINF:-1,DE: Sky AXN HD
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/760.ts
+#EXTINF:-1,DE: Sky 13th Street
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/780.ts
+#EXTINF:-1,DE: Sky RBB Berlin
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/775.ts
+#EXTINF:-1,DE: Sky Phoenix
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/769.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/798.ts
+#EXTINF:-1,DE: Sky Wdr
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/789.ts
+#EXTINF:-1,DE: Sky Sixx
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/785.ts
+#EXTINF:-1,DE: Sky Pro 7
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/773.ts
+#EXTINF:-1,DE: Sky NDR HD
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/768.ts
+#EXTINF:-1,DE: Sky N24
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/767.ts
+#EXTINF:-1,DE: Sky N-TV
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/766.ts
+#EXTINF:-1,DE: Sky Classica
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/765.ts
+#EXTINF:-1,DE: Sky Krimi HD
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/803.ts
+#EXTINF:-1,DE: Sky Kika
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/764.ts
+#EXTINF:-1,DE: Sky Kabel 1
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/763.ts
+#EXTINF:-1,DE: Sky Dmax
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/770.ts
+#EXTINF:-1,DE: Sky Pro 7 Max
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/757.ts
+#EXTINF:-1,DE: Sky Arte
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/756.ts
+#EXTINF:-1,DE: Sky ARD
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/755.ts
+#EXTINF:-1,DE: Sky 3sat
+http://ipsatpro.info:8000/live/2B63aKKEU9/Be6PtL2s10/781.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/292.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/291.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/290.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/289.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/288.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/287.ts
+#EXTINF:-1,DE :SKY Select 7 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/286.ts
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/256.ts
+#EXTINF:-1,DE: SKY SELECT 9 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/247.ts
+#EXTINF:-1,DE:Sky Sport 1 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/281.ts
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/284.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/280.ts
+#EXTINF:-1,DE: Sky Sport 1 US HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/282.ts
+#EXTINF:-1,DE: SKY SPORT AUSTRIA
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/283.ts
+#EXTINF:-1,DE: TNT_SERIE
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/372.ts
+#EXTINF:-1,DE: TNT_FILM
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/371.ts
+#EXTINF:-1,DE: Super RTL HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/366.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/375.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/379.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/373.ts
+#EXTINF:-1,DE: Sky Action HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/378.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/382.ts
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/381.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/380.ts
+#EXTINF:-1,DE:EURONEWS
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/367.ts
+#EXTINF:-1,DE: NatGeo Wild HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/377.ts
+#EXTINF:-1,DE: Kika HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/365.ts
+#EXTINF:-1,DE: History Channel HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/376.ts
+#EXTINF:-1,DE: Heimatkanal
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/374.ts
+#EXTINF:-1,DE: Disney XD Deutschland
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/368.ts
+#EXTINF:-1,DE: Disney Junior HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/369.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/370.ts
+#EXTINF:-1,DE: Cartoon Network
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/364.ts
+#EXTINF:-1,DE: Boomerang
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/363.ts
+#EXTINF:-1,DE:ZDF-HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/253.ts
+#EXTINF:-1,DE:RTL_Nitro
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/252.ts
+#EXTINF:-1,DE:RTL_Living
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/251.ts
+#EXTINF:-1,DE: Sky Krimi
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/246.ts
+#EXTINF:-1,DE:RTLI
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/250.ts
+#EXTINF:-1,DE:Sky_Movies_Family_Hd
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/259.ts
+#EXTINF:-1,DE:Sky_Cinema_Hd
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/258.ts
+#EXTINF:-1,DE:Sky_Atlantic_HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/257.ts
+#EXTINF:-1,DE:Sky-Nostalgie
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/255.ts
+#EXTINF:-1,DE:Sky-Discovery-Channel-HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/254.ts
+#EXTINF:-1,DE:Sky Hits HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/276.ts
+#EXTINF:-1,DE:SKY Emotion HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/275.ts
+#EXTINF:-1,DE:SKY Cinema  24 HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/273.ts
+#EXTINF:-1,DE:Sky Cinema
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/274.ts
+#EXTINF:-1,DE:Kabel1
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/249.ts
+#EXTINF:-1,DE:Joiz
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/243.ts
+#EXTINF:-1,DE: Disney Channel HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/248.ts
+#EXTINF:-1,DE:tv_Aktuell
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/244.ts
+#EXTINF:-1,DE:TNT Serie HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/277.ts
+#EXTINF:-1,DE:AE
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/245.ts
+#EXTINF:-1,DE: ZDF NEO HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/263.ts
+#EXTINF:-1,DE: VOX
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/264.ts
+#EXTINF:-1,DE: SYFY
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/265.ts
+#EXTINF:-1,DE: Super RTL
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/266.ts
+#EXTINF:-1,DE: SRF2
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/267.ts
+#EXTINF:-1,DE: SRF1
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/268.ts
+#EXTINF:-1,DE: Sport DigiTal HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/285.ts
+#EXTINF:-1,DE: Sky MGM HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/271.ts
+#EXTINF:-1,DE: Sky Fox HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/279.ts
+#EXTINF:-1,DE: Sky Comedy
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/269.ts
+#EXTINF:-1,DE: Sky AXN HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/270.ts
+#EXTINF:-1,DE: Sky 13 Street HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/278.ts
+#EXTINF:-1,DE: PRO7 MAX
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/260.ts
+#EXTINF:-1,DE: National Geographic HD
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/261.ts
+#EXTINF:-1,DE: Disney Channel
+http://iptv.sat-tv.net:8000/live/Aliali/Aliali/262.ts
+
+
+
+https://skyfall.to/SkySportNewsHD/index.m3u8
+#EXTINF:0,Sky Sport Austria
+https://skyfall.to/SkySportAustria/index.m3u8
